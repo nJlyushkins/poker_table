@@ -1,0 +1,14 @@
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\bin\Debug\net8.0\poker_table.exe
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\bin\Debug\net8.0\poker_table.deps.json
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\bin\Debug\net8.0\poker_table.runtimeconfig.json
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\bin\Debug\net8.0\poker_table.dll
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\bin\Debug\net8.0\poker_table.pdb
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\poker_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\poker_table.AssemblyInfoInputs.cache
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\poker_table.AssemblyInfo.cs
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\poker_table.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\poker_table.dll
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\refint\poker_table.dll
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\poker_table.pdb
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\poker_table.genruntimeconfig.cache
+C:\Users\Андрей\Documents\Projects\poker_table\poker_table\obj\Debug\net8.0\ref\poker_table.dll
